@@ -7,6 +7,7 @@
 [![Irc](https://img.shields.io/badge/irc.libera.chat-%23magic--wormhole-brightgreen)](https://web.libera.chat/)
 [![Matrix](https://img.shields.io/badge/matrix.org-%23magic--wormhole-brightgreen)](https://matrix.to/#/#magic-wormhole:matrix.org)
 
+magic-wormhole-gui implements GUI for magic wormhole.
 
 Get things from one computer to another, safely.
 
